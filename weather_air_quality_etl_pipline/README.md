@@ -123,6 +123,3 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline that integr
   ```bash
   jupyter notebook notebooks/analysis.ipynb
   ```
-
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
